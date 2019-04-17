@@ -2,7 +2,7 @@
 Hey, I am Harshit Singh, from India. I am Web Designer as well as FrontEnd Web Developer. I love to build things that LIVE on the WEB
 
 ##  :mag_right: Screenshot
-![Layout](https://shrinktheweb.snapito.io/v2/webshot/spu-ea68c8-ogi2-3cwn3bmfojjlb56e?size=800x0&screen=1024x768&url=https%3A%2F%2Fharshitks2203.github.io%2F)
+![Layout](https://raw.githubusercontent.com/HapticHash/HapticHash.github.io/master/assets/img/preview.png?token=APLQiaoipjNHEICo-Vf__rfdQWTZWB7kks5cwDe8wA%3D%3D)
 
 ##   :computer: Interested in code ?
 
