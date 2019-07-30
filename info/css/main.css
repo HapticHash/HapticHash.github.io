@@ -1,4 +1,4 @@
-@import 'https://cdn.statically.io/gh/HapticHash/HapticHash.github.io/master/info/css/fontline.css';
+@import 'https://raw.githack.com/harshitks2203/FMProjects/master/HuddleLandingPage1/css/fontline.css';
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -360,7 +360,7 @@
   .title {
     font-size: 6.4rem;
     margin-top: 0;
-    font-family: "Montserrat-ExtraBold";
+    font-family: 'Montserrat-ExtraBold', sans-serif;
     margin-bottom: 6rem;
     color: #003049;
   }
