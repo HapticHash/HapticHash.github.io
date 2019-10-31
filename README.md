@@ -2,7 +2,7 @@
 Hey, I am Harshit Singh, from India. I am Web Designer as well as FrontEnd Web Developer. I love to build things that LIVE on the WEB
 
 ##  :mag_right: Screenshot
-![Layout](https://haptichash.github.io/assets/img/preview.png)
+![Layout](https://haptichash.github.io/assets/img/overview.png)
 
 ##   :computer: Interested in code ?
 
@@ -14,7 +14,7 @@ P.S. Make sure you have ``` git bash``` installed in your local machine.
 
 ##  :busts_in_silhouette: Author
 
-* **Harshit Singh** - *Web Developer* - [Github](https://github.com/HapticHash)
+* **Harshit Kumar Singh** - *Web Developer* - [Github](https://github.com/HapticHash)
 
 ##  :page_facing_up: License
 
