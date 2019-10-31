@@ -1,5 +1,5 @@
 # Portfolio - Harshit Singh
-Hey, I am Harshit Singh, from India. I am Web Designer as well as FrontEnd Web Developer. I love to build things that LIVE on the WEB
+Hey, I am Harshit Singh, from India. I am Web Designer as well as Full-Stack Web Developer. I love to build things that LIVE on the WEB
 
 ##  :mag_right: Screenshot
 ![Layout](https://haptichash.github.io/assets/img/overview.png)
