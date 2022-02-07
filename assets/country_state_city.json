@@ -1,82 +1,38 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Golf Balls",
-    "parent_id": "0"
-  },
-  {
-    "id": "2",
-    "name": "Apparel",
-    "parent_id": "0"
-  },
-  {
-    "id": "3",
-    "name": "Accessories",
-    "parent_id": "0"
-  },
-  {
-    "id": "4",
-    "name": "Others",
-    "parent_id": "0"
-  },
-  {
-    "id": "5",
-    "name": "Titleist 2021 ProV1 & ProV1x Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "6",
-    "name": "Taylormade 2021 TP5 & TP5x Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "7",
-    "name": "Callaway Chrome Soft & Chrome Soft X Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "8",
-    "name": "Callaway SuperSoft Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "9",
-    "name": "Taylormade Distance+ Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "10",
-    "name": "Bridgestone E6 Soft Golf Ball - 12pk",
-    "parent_id": "1"
-  },
-  {
-    "id": "11",
-    "name": "12 Units",
-    "parent_id": "5"
-  },
-  {
-    "id": "12",
-    "name": "24 Units",
-    "parent_id": "5"
-  },
-  {
-    "id": "13",
-    "name": "48 Units",
-    "parent_id": "5"
-  },
-  {
-    "id": "14",
-    "name": "120 Units",
-    "parent_id": "5"
-  },
-  {
-    "id": "15",
-    "name": "Logo",
-    "parent_id": "11"
-  },
-  {
-    "id": "16",
-    "name": "Personalized",
-    "parent_id": "11"
+    "products": {
+      "1": {
+        "value": "Titleist 2021 ProV1 & ProV1x Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      },
+      "2": {
+        "value": "Taylormade 2021 TP5 & TP5x Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      },
+      "3": {
+        "value": "Callaway Chrome Soft & Chrome Soft X Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      },
+      "4": {
+        "value": "Callaway SuperSoft Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      },
+      "5": {
+        "value": "Taylormade Distance+ Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      },
+      "6": {
+        "value": "Bridgestone E6 Soft Golf Ball - 12pk",
+        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "custom": ["Logo", "Personalized"]
+      }
+    }
   }
 ]
