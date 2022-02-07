@@ -4,7 +4,7 @@
     "name": "Golf Balls",
     "products": [
       {
-        "value": "Titleist 2021 ProV1 & ProV1x Golf Ball - 12pk",
+        "value": "Titleist 2021 Pro v1 & Pro v1x Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
@@ -25,13 +25,69 @@
       },
       {
         "value": "Taylormade Distance+ Golf Ball - 12pk",
-        "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
+        "quantity": ["24 Units"],
         "custom": ["Logo", "Personalized"]
       },
       {
         "value": "Bridgestone E6 Soft Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Apparel",
+    "products": [
+      {
+        "value": "Puma Rotation Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Puma Ombre Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Puma Solarized Camo Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Puma Cloudspun Monarch Polo ",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Puma Cloudspun Taylor Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Adidas PrimeGreen Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Adidas 3 Stripe Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Adidas Go-To Polo ",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Adidas Camo Print Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
+      },
+      {
+        "value": "Travis Mathew Pull the Plug Polo",
+        "quantity": ["24 Units", "72 Units", "144 Units", "288 Units"],
+        "custom": ["Embroidery", "Personalized"]
       }
     ]
   }
