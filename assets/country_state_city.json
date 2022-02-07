@@ -2,37 +2,37 @@
   {
     "id": 1,
     "name": "Golf Balls",
-    "products": {
-      "1": {
+    "products": [
+      {
         "value": "Titleist 2021 ProV1 & ProV1x Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
-      "2": {
+      {
         "value": "Taylormade 2021 TP5 & TP5x Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
-      "3": {
+      {
         "value": "Callaway Chrome Soft & Chrome Soft X Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
-      "4": {
+      {
         "value": "Callaway SuperSoft Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
-      "5": {
+      {
         "value": "Taylormade Distance+ Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       },
-      "6": {
+      {
         "value": "Bridgestone E6 Soft Golf Ball - 12pk",
         "quantity": ["12 Units", "24 Units", "48 Units", "120 Units"],
         "custom": ["Logo", "Personalized"]
       }
-    }
+    ]
   }
 ]
