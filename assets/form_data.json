@@ -1,0 +1,169 @@
+[
+  {
+    "id": 0,
+    "name": "Golf Balls",
+    "products": [
+      {
+        "value": "Titleist 2021 Pro v1 & Pro v1x Golf Ball - 12pk",
+        "quantity": [
+          { "unit": "12 Units" },
+          { "unit": "24 Units" },
+          { "unit": "48 Units" },
+          { "unit": "120 Units" }
+        ],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Taylormade 2021 TP5 & TP5x Golf Ball - 12pk",
+        "quantity": [
+          { "unit": "12 Units" },
+          { "unit": "24 Units" },
+          { "unit": "48 Units" },
+          { "unit": "120 Units" }
+        ],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Callaway Chrome Soft & Chrome Soft X Golf Ball - 12pk",
+        "quantity": [
+          { "unit": "12 Units" },
+          { "unit": "24 Units" },
+          { "unit": "48 Units" },
+          { "unit": "120 Units" }
+        ],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Callaway SuperSoft Golf Ball - 12pk",
+        "quantity": [
+          { "unit": "12 Units" },
+          { "unit": "24 Units" },
+          { "unit": "48 Units" },
+          { "unit": "120 Units" }
+        ],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Taylormade Distance+ Golf Ball - 12pk",
+        "quantity": [{ "unit": "24 Units" }],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Bridgestone E6 Soft Golf Ball - 12pk",
+        "quantity": [
+          { "unit": "12 Units" },
+          { "unit": "24 Units" },
+          { "unit": "48 Units" },
+          { "unit": "120 Units" }
+        ],
+        "custom": [{ "option": "Logo" }, { "option": "Personalized" }]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Apparel",
+    "products": [
+      {
+        "value": "Puma Rotation Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Puma Ombre Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Puma Solarized Camo Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Puma Cloudspun Monarch Polo ",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Puma Cloudspun Taylor Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Adidas PrimeGreen Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Adidas 3 Stripe Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Adidas Go-To Polo ",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Adidas Camo Print Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      },
+      {
+        "value": "Travis Mathew Pull the Plug Polo",
+        "quantity": [
+          { "unit": "24 Units" },
+          { "unit": "72 Units" },
+          { "unit": "144 Units" },
+          { "unit": "288 Units" }
+        ],
+        "custom": [{ "option": "Embroidery" }, { "option": "Personalized" }]
+      }
+    ]
+  }
+]
